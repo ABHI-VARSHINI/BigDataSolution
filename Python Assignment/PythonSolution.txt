@@ -56,7 +56,7 @@ Q7. What is the default datatype of the value that has been taken as an input us
 
 Ans) String
 
-Q8. What is type casting?
+Q8. What is type casting????
  
 Ans) Type casting is the process of converting a data type into another data type by defining     the data type as required by the user operations.
     Eg: a = 153   # which is considered as an int
