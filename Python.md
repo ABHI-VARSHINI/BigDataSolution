@@ -11,11 +11,12 @@ Q4. In what all domains can we use Python?
 An4: rtyuib
 
 Q5. What are variable and how can we declare them?
-
+Ans: okay 
+git
 Q6. How can we take an input from the user in Python?
 
 Q7. What is the default datatype of the value that has been taken as an input using input() function?
-
+gi
 Q8. What is type casting?
 
 Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
@@ -27,6 +28,7 @@ Q11. Can we use keywords as a variable? Support your answer with reason.
 Q12. What is indentation? What's the use of indentaion in Python?
 
 Q13. How can we throw some output in Python?
+Ans. Hey
 
 Q14. What are operators in Python?
 
