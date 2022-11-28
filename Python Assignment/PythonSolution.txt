@@ -213,6 +213,10 @@ print(a)
 
 EOF
 
+Hey
+Hi
+Hello
+
 
 
 
